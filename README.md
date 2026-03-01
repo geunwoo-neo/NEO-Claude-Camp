@@ -22,7 +22,16 @@
 
 ### 설치 방법
 
-터미널을 열고, 본인 OS에 맞는 명령어를 복사해서 붙여넣으세요.
+[https://claude.ai](https://claude.ai) 에 접속해서 대화창에 이렇게 입력하세요:
+
+```
+Claude Code 설치하는 방법 알려줘
+```
+
+Claude가 여러분의 환경에 맞는 설치 방법을 단계별로 안내해줍니다. 그대로 따라하세요.
+
+<details>
+<summary>설치 명령어 직접 보기 (참고용)</summary>
 
 **macOS / Linux / WSL:**
 
@@ -42,7 +51,7 @@ irm https://claude.ai/install.ps1 | iex
 curl -fsSL https://claude.ai/install.cmd -o install.cmd && install.cmd && del install.cmd
 ```
 
-> 잘 모르겠으면 [https://claude.ai](https://claude.ai) 에 접속해서 "Claude Code 설치하는 방법 알려줘"라고 물어보세요. Claude가 단계별로 안내해줍니다.
+</details>
 
 ### 설치 확인
 
