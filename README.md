@@ -1,4 +1,4 @@
-# AI Native Camp - 2기
+# NEO AI Native Camp
 
 > 7일 후, 당신의 업무 방식은 영구적으로 바뀐다.
 
