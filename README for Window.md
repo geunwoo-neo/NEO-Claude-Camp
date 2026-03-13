@@ -56,8 +56,8 @@ node -v
 ## 2단계: Git 설치
 
 **Git이 뭔가요?**
-파일 변경 내역을 저장하고, 나중에 GitHub(온라인 저장소)와 연결할 때 쓰는 도구입니다.
-Day 3 실습에서 사용합니다.
+내가 만든 파일과 작업 내역을 버전별로 저장해두는 도구입니다.
+"어제 버전으로 되돌리고 싶다"는 상황에 유용합니다.
 
 **설치 방법:**
 
@@ -175,7 +175,7 @@ npx skills add ai-native-camp/camp-2 --agent claude-code --yes
 |-----|--------|-----------|
 | 1 | `/day1-onboarding` | 7개 핵심 기능 (Memory, Skill, MCP, Subagent, Agent Teams, Hook, Plugin) |
 | 2 | `/day2-mcp-and-context-sync` | MCP 딥다이브 + Context Sync 스킬 구축 |
-| 3 | `/day3-clarify` | Clarify 플러그인 활용 + 나만의 스킬 만들기 + Plugin 심화 + PRD & GitHub |
+| 3 | `/day3-clarify` | Clarify 플러그인 활용 + 나만의 스킬 만들기 + Plugin 심화 + 엑셀 데이터 전처리 실습 |
 | 4 | `/day4-wrap-and-analyze` | Wrap & Analyze: 세션 분석 스킬 구축 + 콘텐츠 소화 체험 |
 
 ---
